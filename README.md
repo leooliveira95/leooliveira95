@@ -32,6 +32,14 @@
 </div>  
   
 ![Snake animation](https://github.com/leooliveira95/leooliveira95/blob/output/github-contribution-grid-snake.svg)
+  
+  <p align="center"> 
+
+ ## Total de visitas no meu perfil :detective: <br>
+ <p align="center"> 
+   <img alingn="center" src="https://profile-counter.glitch.me/leooliveira95/count.svg" />
+ </p>
+
 
   
 
