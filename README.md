@@ -28,7 +28,7 @@
   <a href="https://t.me/Leonardoocosta" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a> 
 
   <a href="https://discord.gg/r6hBjDem" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
-   <a href="https://www.instagram.com/leonardo_oliveira95/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
+   <a href="https://www.instagram.com/leonardo.o.costa/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
 </div>  
   
 ![Snake animation](https://github.com/leooliveira95/leooliveira95/blob/output/github-contribution-grid-snake.svg)
