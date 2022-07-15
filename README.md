@@ -40,7 +40,7 @@
    <img alingn="center" src="https://profile-counter.glitch.me/leooliveira95/count.svg" />
  </p>
 
-</p>
+ </p>
 
 
   
